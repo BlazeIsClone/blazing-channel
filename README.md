@@ -26,18 +26,6 @@ Run the application
 make run
 ```
 
-Create DB container
-
-```bash
-make docker-run
-```
-
-Shutdown DB Container
-
-```bash
-make docker-down
-```
-
 DB Integrations Test:
 
 ```bash
